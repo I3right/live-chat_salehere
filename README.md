@@ -14,7 +14,7 @@ This is a basic live chat web app. build with React vite.
 1. **Clone the repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/I3right/live-chat_salehere.git
     cd livechat
     ```
 
